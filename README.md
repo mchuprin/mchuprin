@@ -9,11 +9,11 @@
   От пиксель-перфекта до Kubernetes-деплоя.
 </p>
 
-<div align="center" style="display: flex; flex-direction: column;">
-  <a href="https://mchuprin.github.io/chuprin-cv/ru/"><img src="https://img.shields.io/badge/🖥️_Interactive_CV-Cyberpunk_Terminal-ff006e?style=flat-square&labelColor=0a0a0f" alt="Interactive CV"></a>
-  <a href="mailto:chuprin.web.dev@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-chuprin.web.dev@gmail.com-00f5ff?style=flat-square&labelColor=0a0a0f" alt="Email"></a>
+<p align="center">
+  <a href="https://mchuprin.github.io/chuprin-cv/ru/"><img src="https://img.shields.io/badge/🖥️_Interactive_CV-Cyberpunk_Terminal-ff006e?style=flat-square&labelColor=0a0a0f" alt="Interactive CV"></a><br/>
+  <a href="mailto:chuprin.web.dev@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-chuprin.web.dev@gmail.com-00f5ff?style=flat-square&labelColor=0a0a0f" alt="Email"></a><br/>
   <a href="https://t.me/maks_chuprin"><img src="https://img.shields.io/badge/💬_Telegram-@maks__chuprin-00f5ff?style=flat-square&logo=telegram&labelColor=0a0a0f" alt="Telegram"></a>
-</div>
+</p>
 
 ---
 
@@ -97,17 +97,21 @@
 
 </div>
 
----
+<!-- ---
 
-##  Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mchuprin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=ff006e&icon_color=00f5ff&text_color=e4e4e7" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchuprin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=ff006e&text_color=e4e4e7&langs_count=6" alt="Top Languages" height="165" />
-</div>
-
----
+## 📊 Activity
 
 <div align="center">
-  <sub>Приглашаю ознакомиться с резюме в интерактивном формате — <a href="https://mchuprin.github.io/chuprin-cv/ru/">Cyberpunk терминал</a> ;)</sub>
-</div>
+  <a href="https://github.com/mchuprin">
+    <img src="https://img.shields.io/github/stars/mchuprin?style=flat-square&color=ff006e&labelColor=0a0a0f" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/mchuprin?tab=followers">
+    <img src="https://img.shields.io/github/followers/mchuprin?style=flat-square&color=00f5ff&labelColor=0a0a0f" alt="GitHub Followers">
+  </a>
+</div> -->
+
+---
+
+<h4 align="center">
+  Приглашаю ознакомиться с резюме в интерактивном формате — <a href="https://mchuprin.github.io/chuprin-cv/ru/"><strong>Cyberpunk терминал</strong></a>
+</h4>
