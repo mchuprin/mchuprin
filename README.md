@@ -31,7 +31,7 @@
 - 🐳 Упаковываю фронтенд в Docker и деплою в Kubernetes
 - 🤖 Активно использую AI-инструменты в работе (AI-агенты, AI-чаты)
 
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=mchuprin&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity](https://github-readme-activity-graph.onrender.com/graph?username=mchuprin&theme=react-dark&hide_border=true&area=true)
 
 **Стек, с которым живу:**
 `Vue 3 / Nuxt 4` · `React / Next.js` · `TypeScript (strict)` · `Pinia / Vue Query` · `Docker / Nginx / K8s` · `GitLab CI` · `Storybook`
