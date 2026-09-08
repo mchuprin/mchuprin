@@ -22,11 +22,16 @@
 Фронтенд-инженер с 6+ годами опыта. Специализируюсь на **рефакторинге legacy-проектов**, построении архитектуры и внедрении CI/CD. Верю, что красивый интерфейс начинается с красивой кодовой базы.
 
 **Что я делаю:**
+
+> Большинство моих рабочих проектов — в приватных репозиториях (NDA). Этот профиль демонстрирует чистые реализации и open-source инструменты.
+
 -  Ускоряю рендеринг в 3× через кастомный виртуальный скролл
 - 📦 Уменьшаю бандлы на 30% при миграции jQuery → Vue + TypeScript
 - 🏗️ Внедряю Feature-Sliced Design — онбординг новых разработчиков в 2× быстрее
 - 🐳 Упаковываю фронтенд в Docker и деплою в Kubernetes
 - 🤖 Активно использую AI-инструменты в работе (AI-агенты, AI-чаты)
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mchuprin&theme=react-dark&hide_border=true&area=true)
 
 **Стек, с которым живу:**
 `Vue 3 / Nuxt 4` · `React / Next.js` · `TypeScript (strict)` · `Pinia / Vue Query` · `Docker / Nginx / K8s` · `GitLab CI` · `Storybook`
